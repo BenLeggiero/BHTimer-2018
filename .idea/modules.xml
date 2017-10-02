@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BHTimer Core.iml" filepath="$PROJECT_DIR$/.idea/modules/BHTimer Core.iml" group="org.bh.app.timer" />
+      <module fileurl="file://$PROJECT_DIR$/JVM/BHTimer JVM.iml" filepath="$PROJECT_DIR$/JVM/BHTimer JVM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/org.bh.app.timer.iml" filepath="$PROJECT_DIR$/.idea/modules/org.bh.app.timer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/org.bh.app.timer_test.iml" filepath="$PROJECT_DIR$/.idea/modules/org.bh.app.timer_test.iml" group="org.bh.app.timer" />
+    </modules>
+  </component>
+</project>
